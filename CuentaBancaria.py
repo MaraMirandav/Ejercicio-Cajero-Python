@@ -30,5 +30,3 @@ class CuentaBancaria:
     def cantidad(self,cantidad) -> None:
         self.__cantidad = cantidad
 
-
-## edito algo
