@@ -1,0 +1,7 @@
+# excluir uno por uno
+
+
+# todos los de su tipo
+*.txt
+.DS_Store
+__pycache__
