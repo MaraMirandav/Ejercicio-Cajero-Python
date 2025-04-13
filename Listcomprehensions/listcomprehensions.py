@@ -22,12 +22,12 @@ dict_cm = {k: 0 for k in lista_money_generator}
 #     print(k, '€ - ', v)
 
 
-class Tulis:
+class XD:
     LISTA_MONEY_GENERATOR = ((j*10**i) for i in range(-2, 3) for j in (1, 2, 5))
     
     @staticmethod
     def crear_monedero() -> dict[float, int]:
-        monedero_auxiliar: dict[float, int] = {k: 0 for k in Tulis.LISTA_MONEY_GENERATOR}
+        monedero_auxiliar: dict[float, int] = {k: 0 for k in XD.LISTA_MONEY_GENERATOR}
         return monedero_auxiliar
 
 lista_nombres = ['Mimis', 'ikis', 'jimmys']
