@@ -23,7 +23,7 @@ Este proyecto refuerza conceptos como:
 
 ## Estructura del repositorio
 
-- - `db_util.py`: Define la conexión a la base de datos mediante un método estático utilizando **mysql.connector**.  
+- `db_util.py`: Define la conexión a la base de datos mediante un método estático utilizando **mysql.connector**.  
 - `creacion_database.py`: Contiene los métodos para la creación de las bases de datos (correspondientes a cada banco) y de la tabla **Cajero**, con sus respectivos atributos.  
 - `CuentaBancaria.py`: Clase principal que representa una **Cuenta Bancaria** (POO).  
 - `CuentaBancariaDAO.py`: Clase abstracta con la definición de los métodos necesarios para la gestión del sistema (crear banco, ingresar dinero, realizar compras, etc.).  
