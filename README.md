@@ -5,7 +5,7 @@ Proyecto desarrollado durante el tercer trimestre del **primer curso del Grado S
 ## Objetivo
 
 El propósito de este ejercicio es implementar en Python la lógica fundamental de un cajero automático, para realizar las siguientes operaciones: 
--  Creación del banco
+- Creación del banco
 - Consulta de saldo
 - Ingresos de dinero
 - Retiro en efectivo
