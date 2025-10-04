@@ -37,7 +37,7 @@ Este proyecto refuerza conceptos de programación orientada a objetos, patrón d
   2. **Configura la conexión** a tu base de datos MySQL en el archivo `db_util.py` (asegúrate de que el usuario tiene permisos para crear bases de datos).
   3. **Ejecuta** el script principal desde tu terminal para iniciar el programa:
 
-  ``bash
+  ```bash
     python Main.py
   ´´´
 
