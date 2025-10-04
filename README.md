@@ -39,7 +39,7 @@ Este proyecto refuerza conceptos de programación orientada a objetos, patrón d
 
   ```bash
     python Main.py
-  ´´´
+  ```
 
 ## Nota
 
@@ -56,8 +56,8 @@ Elegí este enfoque porque lo considero más cercano a la realidad laboral y una
 
 Gracias a este ejercicio:
 
-Aprendí a manejar excepciones de forma consciente.
-Reforcé la lógica de programación, implementándola en un proyecto más grande.
-Descubrí la importancia de estructurar el código con buenas prácticas desde el inicio, organizándolo de manera modular y clara.
-Desarrollé habilidades en la gestión de bases de datos, aplicándolas directamente a través de la programación y comprendiendo mejor como se integran ambas para el funcionamiento del programa.
-Este proyecto me motivó a seguir mejorando mis habilidades, a tomar decisiones y me acercó un poco más a lo que será el trabajo en un contexto real.
+- Aprendí a manejar excepciones de forma consciente.
+- Reforcé la lógica de programación, implementándola en un proyecto más grande.
+- Descubrí la importancia de estructurar el código con buenas prácticas desde el inicio, organizándolo de manera modular y clara.
+- Desarrollé habilidades en la gestión de bases de datos, aplicándolas directamente a través de la programación y comprendiendo mejor como se integran ambas para el funcionamiento del programa.
+- Este proyecto me motivó a seguir mejorando mis habilidades, a tomar decisiones y me acercó un poco más a lo que será el trabajo en un contexto real.
